@@ -74,10 +74,7 @@ a {
 }
 
 .theme-dark .topSectionNormal-2-vo2m {
-	background-color: var(--NTBackgroundColor04)!important;
-	background-size: 100% 200%;
-	background-image: url(https://discordapp.com/assets/da840b1a6c5d073ca1c6710f8967502a.svg);
-	background-repeat: no-repeat
+	background-color: rgba(18, 26, 27, 0.5) !important; 
 }
 
 .theme-dark .body-3ND3kc {
@@ -85,12 +82,15 @@ a {
 }
 
 .topSectionPlaying-1J5E4n {
-	background-color: var(--PrimaryColor01)
+	background-color: rgba(18, 26, 27, 0.5) !important;
 }
 
 .topSectionPlaying-1J5E4n .headerFill-adLl4x {
-	box-shadow: 0 5px 5px rgba(0, 0, 0, .3), 0 -5px 5px rgba(0, 0, 0, .3);
-	background-image: linear-gradient(to bottom right, var(--PrimaryColor02), var(--PrimaryColor01))
+	 background-color: rgba(18, 26, 27, 1) !important;
+    	background-image:url('https://raw.githubusercontent.com/Kirbae00/rand-files/master/jdm_backdrop.png') !important;
+    	background-size: 80px 80px !important;
+    	background-repeat:no-repeat;
+    	background-position:right;
 }
 
 .lookInverted-2D7oAl.colorBrand-3pXr91 {
@@ -102,11 +102,7 @@ a {
 }
 
 .topSectionSpotify-1lI0-P .headerFill-adLl4x {
-	background-color: #0c9602;
-	background-image: url(https://discordapp.com/assets/da840b1a6c5d073ca1c6710f8967502a.svg);
-	background-repeat: no-repeat;
-	background-position: top;
-	background-size: 100% 105%
+	background-color: rgba(18, 26, 27, 0.5) !important;
 }
 
 .da-placeholderUsername,
@@ -136,7 +132,7 @@ a {
 }
 
 .uploadModal-2ifh8j {
-	background-color: var(--PrimaryColor01)
+	background-color: rgba(18, 26, 27, 0.5) !important;
 }
 
 .uploadModal-2ifh8j .footer-3mqk7D {
@@ -144,12 +140,13 @@ a {
 }
 
 .uploadModal-2ifh8j .footer-3mqk7D .button {
-	background-color: transparent
+	background-color: rgba(0,0,0,.7)!important ; 
+    	margin-left:5px !important;
 }
 
 .uploadModal-2ifh8j .footer-3mqk7D .button-primary {
-	color: var(--PrimaryColor01);
-	background-color: #fff
+	background-color: rgba(0,0,0,.7)!important ; 
+    	margin-left:5px !important;
 }
 
 .uploadModal-2ifh8j .footer-3mqk7D .button-primary:hover {
@@ -1910,7 +1907,7 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 }
 
 #autocomplete-popout .section {
-	color: #fff;
+	color:white;
 	border-bottom: 2px solid var(--PrimaryColor01)
 }
 
@@ -1961,7 +1958,7 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 
 .activity-11LB_k,
 .headerPlaying-j0WQBV .activity-11LB_k {
-	box-shadow: 0 5px 5px rgba(0, 0, 0, .3), 0 -5px 5px rgba(0, 0, 0, .3)
+	background-color: rgba(18, 26, 27, 0.5) !important;
 }
 
 .headerStreaming-2FjmGz .activity-11LB_k {
@@ -1995,7 +1992,7 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 }
 
 .headerPlaying-j0WQBV {
-	background: var(--PrimaryColor01)
+	background-color: rgba(18, 26, 27, 0.5) !important;
 }
 
 .headerPlaying-j0WQBV .headerTop-3C2Zn0 {
@@ -2011,7 +2008,7 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 }
 
 .headerPlaying-j0WQBV .activity-11LB_k {
-	background-image: linear-gradient(to bottom right, var(--PrimaryColor02), var(--PrimaryColor01))
+	background-image: linear-gradient(to bottom right,rgba(18, 26, 27, 0.5),rgba(1, 35, 9, 1)) !important; 
 }
 
 @keyframes moveBackgroundGame {
