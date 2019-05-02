@@ -1,0 +1,37 @@
+.da-uploadModal {
+    background-color: rgba(18, 26, 27, 0.5) !important;
+}
+.da-grow {
+    background-color: rgba(0,0,0,.7)!important ; 
+    margin-left:5px !important;
+}
+
+.da-topSectionSpotify {
+    background-color: rgba(18, 26, 27, 0.5) !important;
+}
+.da-topSectionNormal{
+   background-color: rgba(18, 26, 27, 0.5) !important; 
+}
+.da-topSectionPlaying{
+    background-color: rgba(18, 26, 27, 0.5) !important;
+}
+.da-headerFill{
+    background-color: rgba(18, 26, 27, 1) !important;
+    background-image:url('https://raw.githubusercontent.com/Kirbae00/rand-files/master/jdm_backdrop.png') !important;
+    background-size: 80px 80px !important;
+    background-repeat:no-repeat;
+    background-position:right;
+}
+.da-headerPlaying{
+    background-color: rgba(18, 26, 27, 0.5) !important;
+}
+.da-activityUserPopout{
+   background-image: linear-gradient(to bottom right,rgba(18, 26, 27, 0.5),rgba(1, 35, 9, 1)) !important; 
+}
+.da-name {
+    color:#a2a2a285;
+}
+
+.da-autocomplete{
+    color:white !important;
+}
