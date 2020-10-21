@@ -16,7 +16,7 @@
 
 .numberBadge-2s8kKX, .textBadge-1iylP6
 {
-    background: pink !important;
+    background: Blue !important;
     box-shadow: 0 0 10px -3px red;
     color: black;
 }
@@ -46,42 +46,42 @@
 }
 
 #app-mount .members-1998pB .membersGroup-v9BXpm {
-    color: pink;
+    color: blue;
 }
 
 #app-mount .name-IbjUBS {
-    color: pink;
+    color: blue;
 }
 
 .container-PNkimc .header-2o-2hj:hover {
-    background-color: pink;
+    background-color: blue;
 }
 
 #app-mount .activityText-yGKsKm>strong {
-    color: pink;
+    color: blue;
 }
 
 .embed-IeVjo6 {
-    border-color: pink;
+    border-color: blue;
 }
 
 .search-2oPWTC .searchBar-3dMhjb, .libraryFilter-31ZUa2, .browseSearch-e9jF-f {
-    border: 1px solid pink;
+    border: 1px solid blue;
     transition: width .2s ease-in-out .1s;
 }
 
 .container-1ov-mD>* {
     border: 1px solid purple;
-    border-left: 5px solid pink;
+    border-left: 5px solid blue;
 }
 
 #app-mount .title-29uC1r {
-    color: pink;
+    color: blue;
     filter: drop-shadow(0 0 3px);
 } 
 
 .mention {
-    color: pink!important; /* color of mention text, as in @user or #channel or any valid mention */
+    color: blue!important; /* color of mention text, as in @user or #channel or any valid mention */
     background-color: transparant!important; /* background color of mention text */
 }
 .mention:hover {
@@ -90,35 +90,35 @@
 }
 
 .theme-dark .mentioned-xhSam7 .mention, .theme-light .mentioned-xhSam7 .mention {
-    color: pink!important;
+    color: blue!important;
     background-color: rgb(70,50,70)!important;
 }
 
 .theme-dark:hover .mentioned-xhSam7:hover .mention:hover, .theme-light:hover .mentioned-xhSam7:hover .mention:hover {
     color: #ad1ede!important;
-    background-color: pink!important;
+    background-color: blue!important;
     border-radius: 5px;
     padding: 1px 4px;
 }
 
 #app-mount .name-3_Dsmg:hover, .containerDefault-1ZnADq:hover {
     filter: drop-shadow( 0 0 3px);
-    color: pink;
+    color: blue;
 }
 
 .children-Bmpf2Q:hover {
     filter: drop-shadow(0 0 3px);
-    color: pink;
+    color: blue;
 }
 
 .avatar-1BDn8e.clickable-1bVtEA { 
     filter: drop-shadow(0 0 3px);
-    color: pink;
+    color: blue;
 }
 
 .avatar-1BDn8e:hover.clickable-1bVtEA:hover {
     filter: drop-shadow(0 0 8px);
-    color: pink;
+    color: blue;
     transform: rotate(360deg);
     transition: width .5s ease, height .5s ease, transform .5s ease;
 }
@@ -130,12 +130,12 @@
 
 .wrapper-3t9DeA {
     filter: drop-shadow(0 0 2px);
-    color: pink;
+    color: blue;
 }
 
 .contents-18-Yxp {
     filter: drop-shadow(0 0 3px);
-    color: pink;
+    color: blue;
 } 
 
 .userPopout-3XzG_A:hover .note-3HfJZ5:hover>textarea {
@@ -149,7 +149,7 @@
 
 .content-1o0f9g {
     color: black;
-    border: 1px solid pink;
+    border: 1px solid blue;
     background: linear-gradient(to top right, purple, rgb(211, 23, 218));
 }
 
