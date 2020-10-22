@@ -1,5 +1,5 @@
 #app-mount .icon-22AiRD:hover {
-    color: #ad1ede;
+    color: #00c2cc;
     filter: drop-shadow(0 0 3px);
 }
 
@@ -16,9 +16,9 @@
 
 .numberBadge-2s8kKX, .textBadge-1iylP6
 {
-    background: Blue !important;
+    background: red !important;
     box-shadow: 0 0 10px -3px red;
-    color: black;
+    color: white;
 }
 
 #app-mount .layout-2DM8Md:hover {
@@ -46,100 +46,100 @@
 }
 
 #app-mount .members-1998pB .membersGroup-v9BXpm {
-    color: blue;
+    color:  #00c2cc;
 }
 
 #app-mount .name-IbjUBS {
-    color: blue;
+    color:  #00c2cc;
 }
 
 .container-PNkimc .header-2o-2hj:hover {
-    background-color: blue;
+    background-color:  #00c2cc;
 }
 
 #app-mount .activityText-yGKsKm>strong {
-    color: blue;
+    color: yellowgreen;
 }
 
 .embed-IeVjo6 {
-    border-color: blue;
+    border-color:  #00c2cc;
 }
 
 .search-2oPWTC .searchBar-3dMhjb, .libraryFilter-31ZUa2, .browseSearch-e9jF-f {
-    border: 1px solid blue;
+    border: 1px solid  #00c2cc;
     transition: width .2s ease-in-out .1s;
 }
 
 .container-1ov-mD>* {
-    border: 1px solid purple;
-    border-left: 5px solid blue;
+    border: 1px solid #00c2cc;;
+    border-left: 5px solid  #00c2cc;
 }
 
 #app-mount .title-29uC1r {
-    color: blue;
+    color:  #00c2cc;
     filter: drop-shadow(0 0 3px);
 } 
 
 .mention {
-    color: blue!important; /* color of mention text, as in @user or #channel or any valid mention */
+    color:  #00c2cc!important; /* color of mention text, as in @user or #channel or any valid mention */
     background-color: transparant!important; /* background color of mention text */
 }
 .mention:hover {
-    color: #ad1ede!important; /* color of mention text when hovered */
+    color: #00c2cc;!important; /* color of mention text when hovered */
     background-color: pink!important; /* background color of mention text when hovered */ 
 }
 
 .theme-dark .mentioned-xhSam7 .mention, .theme-light .mentioned-xhSam7 .mention {
-    color: blue!important;
-    background-color: rgb(70,50,70)!important;
+    color:  #00c2cc!important;
+    background-color: rgba(119,119,11910.15)!important;
 }
 
 .theme-dark:hover .mentioned-xhSam7:hover .mention:hover, .theme-light:hover .mentioned-xhSam7:hover .mention:hover {
-    color: #ad1ede!important;
-    background-color: blue!important;
+    color: #00c2cc;!important;
+    background-color:  #00c2cc!important;
     border-radius: 5px;
     padding: 1px 4px;
 }
 
 #app-mount .name-3_Dsmg:hover, .containerDefault-1ZnADq:hover {
     filter: drop-shadow( 0 0 3px);
-    color: blue;
+    color:  #00c2cc;
 }
 
 .children-Bmpf2Q:hover {
     filter: drop-shadow(0 0 3px);
-    color: blue;
+    color:  #00c2cc;
 }
 
 .avatar-1BDn8e.clickable-1bVtEA { 
     filter: drop-shadow(0 0 3px);
-    color: blue;
+    color:  #00c2cc;
 }
 
 .avatar-1BDn8e:hover.clickable-1bVtEA:hover {
     filter: drop-shadow(0 0 8px);
-    color: blue;
+    color:  #00c2cc;
     transform: rotate(360deg);
     transition: width .5s ease, height .5s ease, transform .5s ease;
 }
 
 .homeIcon-tEMBK1 {
     filter: drop-shadow(0 0 5px);
-    color: purple;
+    color:#00c2cc;;
 }
 
 .wrapper-3t9DeA {
     filter: drop-shadow(0 0 2px);
-    color: blue;
+    color:  #00c2cc;
 }
 
 .contents-18-Yxp {
     filter: drop-shadow(0 0 3px);
-    color: blue;
+    color:  #00c2cc;
 } 
 
 .userPopout-3XzG_A:hover .note-3HfJZ5:hover>textarea {
-    border: 1px solid purple;
+    border: 1px solid #00c2cc;;
 }
 
 .userSettingsAccount-2eMFVR .userInfoEditing-1CEzdT, .userSettingsAccount-2eMFVR .userInfoViewing-16kqK3 {
@@ -149,8 +149,8 @@
 
 .content-1o0f9g {
     color: black;
-    border: 1px solid blue;
-    background: linear-gradient(to top right, purple, rgb(211, 23, 218));
+    border: 1px solid  #00c2cc;
+    background: linear-gradient(to top right, #00c2cc,  #00c2cc;
 }
 
 #app-mount .standardSidebarView-3F1I7i .userSettingsAccount-2eMFVR div:nth-child(2) > div:nth-child(2) > .viewBody-2Qz-jg {
@@ -164,11 +164,11 @@
 }
 
 .members-1998pB .membersGroup-v9BXpm:before {
-    color: #ad1ede;
+    color: #00c2cc;;
 }
 
 .members-1998pB .membersGroup-v9BXpm:after {
-    color: #ad1ede;
+    color: #00c2cc;;
 }
 
 .homeIcon-tEMBK1:hover {
@@ -190,7 +190,7 @@
   }
   
 #app-mount .timestamp-3ZCmNB {
-    color: pink;
+    color:#10c2cc;
 }
 
 .role-2irmRk {
